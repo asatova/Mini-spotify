@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1,
+h2,
+h3{
+  font-family: "Tahoma";
+  color: rgb(97, 87, 87)
+}
+@import "./player";
+@import "./song";
